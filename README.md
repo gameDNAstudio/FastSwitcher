@@ -18,4 +18,4 @@ The Fast Switcher UMG widget loads only the needed one and unloads it when you s
 
 
 ## User Guide
-More info about plugin and installation instructions you can find in [User Guide](Documentation/ExtendedFacebook_UserGuide.pdf).
+More info about plugin and installation instructions you can find in [User Guide](Documentation/FastSwitcher_UserGuide.pdf).
