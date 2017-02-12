@@ -11,6 +11,13 @@
   "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/de82d6586a8b42c69a79b9b7ecb8a441",
   "EngineVersion": "4.14.0",
   "SupportURL": "mailto:support@gamednastudio.com",
+  "Modules": [
+    {
+      "Name": "FastSwitcher",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
   "CanContainContent": true,
   "IsBetaVersion": false,
   "Installed": true,
