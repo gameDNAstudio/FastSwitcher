@@ -3,7 +3,6 @@
 // Copyright (c) 2014-2017 gameDNA. All Rights Reserved.
 
 #include "FastSwitcherPrivatePCH.h"
-#include "ISettingsModule.h"
 
 DEFINE_LOG_CATEGORY(LogFastSwitcher);
 
