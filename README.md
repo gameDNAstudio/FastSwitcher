@@ -2,10 +2,7 @@
 
 # Fast Switcher
 
-**Fast Switcher UMG** is a plugin for Unreal Engine 4 that loads only the needed widget.
-
-Default Widget Switcher in Unreal Engine 4 loads all widgets into the memory and switches between them without unloading those which are inactive.
-The Fast Switcher UMG widget loads only the needed one and unloads it when you switch to another.
+**Fast Switcher** for Unreal Motion Graphics loads only the needed widget. Default widget switcher in Unreal Engine 4 loads all widgets into the memory and switches between them without unloading inactive ones. The Fast Switcher for Unreal Motion Graphics widget loads only the needed one and unloads it when you switch to another. Widgets caching functionality can be optionally enabled. Fast Switcher is made in Blueprints.
 
 **Current version:** 1.0.0
 
