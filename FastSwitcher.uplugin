@@ -1,7 +1,7 @@
 {
   "FileVersion": 3,
   "Version": 1,
-  "VersionName": "1.4.0",
+  "VersionName": "1.5.0",
   "FriendlyName": "Fast Switcher",
   "Description": "Loads only the needed widget",
   "Category": "Widgets",
@@ -9,7 +9,7 @@
   "CreatedByURL": "http://gamednastudio.com",
   "DocsURL": "http://gamednastudio.com/plugins/docs/FastSwitcher_UserGuide.pdf",
   "MarketplaceURL": "",
-  "EngineVersion": "4.21.0",
+  "EngineVersion": "4.22.0",
   "SupportURL": "mailto:support@gamednastudio.com",
   "CanContainContent": true,
   "IsBetaVersion": false,
